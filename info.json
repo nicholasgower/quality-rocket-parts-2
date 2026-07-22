@@ -1,11 +1,15 @@
 {
-    "name": "quality-rocket-parts-2",
-    "version": "0.4.0",
-    "title": "Quality Rocket Parts 2",
-    "author": "MeteorSwarm, IsaacOscar",
-    "contact": "",
-    "homepage": "",
-    "factorio_version": "2.1",
-    "dependencies": ["quality >= 2.1.12","PlanetsLib >= 1.22.0","(?) planetaris-hyarion"],
-    "description": "Allows selecting the quality of rocket parts, higher quality parts will increase rocket progress more."
+  "name": "quality-rocket-parts-2",
+  "version": "0.5.0",
+  "title": "Quality Rocket Parts 2",
+  "author": "MeteorSwarm, IsaacOscar",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "quality >= 2.1.12",
+    "PlanetsLib >= 1.22.0",
+    "(?) planetaris-hyarion"
+  ],
+  "description": "Allows selecting the quality of rocket parts, higher quality parts will increase rocket progress more."
 }
