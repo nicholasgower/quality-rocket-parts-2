@@ -6,6 +6,6 @@
     "contact": "",
     "homepage": "",
     "factorio_version": "2.1",
-    "dependencies": ["quality > 2.1.12"],
+    "dependencies": ["quality >= 2.1.12"],
     "description": "Allows selecting the quality of rocket parts, higher quality parts will increase rocket progress more.."
 }
