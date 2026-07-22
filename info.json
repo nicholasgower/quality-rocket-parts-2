@@ -6,6 +6,6 @@
     "contact": "",
     "homepage": "",
     "factorio_version": "2.1",
-    "dependencies": ["quality >= 2.1.12","PlanetsLib >= 1.22.0"],
+    "dependencies": ["quality >= 2.1.12","PlanetsLib >= 1.22.0","(?) planetaris-hyarion"],
     "description": "Allows selecting the quality of rocket parts, higher quality parts will increase rocket progress more."
 }

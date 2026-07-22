@@ -9,5 +9,6 @@ local function on_crafted_function(event)
 	end
 
 for _,recipe in pairs(prototypes.mod_data["Planetslib-planet-rocket-part-recipe"].data) do
+	assert(prototypes.recipe[recipe].on_crafted_event,"Rocket part recipe ".. recipe .." lacks an on_crafted_event handler.")
 	script.on_event(prototypes.recipe[recipe].on_crafted_event,on_crafted_function)
 end
