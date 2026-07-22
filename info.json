@@ -1,11 +1,11 @@
 {
     "name": "quality-rocket-parts-2",
     "version": "0.4.0",
-    "title": "Quality Rocket Parts (MeteorSwarm Port)",
+    "title": "Quality Rocket Parts (MeteorSwarm Fork)",
     "author": "MeteorSwarm, IsaacOscar",
     "contact": "",
     "homepage": "",
     "factorio_version": "2.1",
-    "dependencies": ["quality >= 2.1.12"],
-    "description": "Allows selecting the quality of rocket parts, higher quality parts will increase rocket progress more.."
+    "dependencies": ["quality >= 2.1.12","PlanetsLib >= 1.22.0"],
+    "description": "Allows selecting the quality of rocket parts, higher quality parts will increase rocket progress more."
 }
